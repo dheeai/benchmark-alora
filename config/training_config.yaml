@@ -1,0 +1,14 @@
+model: MiniMax-H3
+adapter: default_h3
+lora_rank: 16
+batch_size: 1
+quantize: true
+gradient_checkpointing: true
+disk_caching: true
+layer_offloading: true
+audio_enabled: true
+guidance: contrastive
+resolution_bucket: 512
+fps: 24
+frame_count: 107
+steps: 100

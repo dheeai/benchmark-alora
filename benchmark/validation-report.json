@@ -1,0 +1,241 @@
+{
+  "clips": 35,
+  "seconds": 175,
+  "source_count": 20,
+  "publishers": 15,
+  "checks": [
+    "125 decoded video frames at 25 fps",
+    "240000 PCM audio samples at 48 kHz",
+    "embedded audio decodes",
+    "at least 80% Silero speech coverage",
+    "no detected scene cut at threshold 0.25",
+    "less than 0.1% clipped samples",
+    "no upscaling above source height"
+  ],
+  "sources": [
+    {
+      "source_id": "KQfItX5XH2o",
+      "clips": 2,
+      "source_seconds": 120.017375,
+      "eligible_windows": 297,
+      "detected_scene_cuts": 2,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "4D_O1jvH3jw",
+      "clips": 0,
+      "source_seconds": 120.02,
+      "eligible_windows": 0,
+      "detected_scene_cuts": 7,
+      "retained_clips": 0
+    },
+    {
+      "source_id": "TPCTK83LfG0",
+      "clips": 2,
+      "source_seconds": 120.0,
+      "eligible_windows": 368,
+      "detected_scene_cuts": 1,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "NFCjpEsIZXw",
+      "clips": 2,
+      "source_seconds": 120.004,
+      "eligible_windows": 325,
+      "detected_scene_cuts": 0,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "LOTtY7yoYIU",
+      "clips": 2,
+      "source_seconds": 120.012,
+      "eligible_windows": 309,
+      "detected_scene_cuts": 6,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "CoY6QOW67iE",
+      "clips": 2,
+      "source_seconds": 120.001375,
+      "eligible_windows": 108,
+      "detected_scene_cuts": 0,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "X6OLjcgNb7w",
+      "clips": 2,
+      "source_seconds": 120.0,
+      "eligible_windows": 34,
+      "detected_scene_cuts": 8,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "F_5G7xBHBak",
+      "clips": 2,
+      "source_seconds": 120.009375,
+      "eligible_windows": 165,
+      "detected_scene_cuts": 5,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "EMSfJVQ_Yls",
+      "clips": 2,
+      "source_seconds": 120.0,
+      "eligible_windows": 251,
+      "detected_scene_cuts": 3,
+      "retained_clips": 1
+    },
+    {
+      "source_id": "GyJOPmuZI0Q",
+      "clips": 2,
+      "source_seconds": 120.0,
+      "eligible_windows": 195,
+      "detected_scene_cuts": 6,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "ZR3IcD5WLEo",
+      "clips": 0,
+      "source_seconds": 120.0,
+      "eligible_windows": 0,
+      "detected_scene_cuts": 8,
+      "retained_clips": 0
+    },
+    {
+      "source_id": "w2eLW60mFek",
+      "clips": 2,
+      "source_seconds": 120.02,
+      "eligible_windows": 9,
+      "detected_scene_cuts": 52,
+      "retained_clips": 1
+    },
+    {
+      "source_id": "kK1Q-dYrMIA",
+      "clips": 0,
+      "source_seconds": 120.004,
+      "eligible_windows": 0,
+      "detected_scene_cuts": 17,
+      "retained_clips": 0
+    },
+    {
+      "source_id": "rDD8mwTL58Q",
+      "clips": 0,
+      "source_seconds": 120.0,
+      "eligible_windows": 0,
+      "detected_scene_cuts": 13,
+      "retained_clips": 0
+    },
+    {
+      "source_id": "wtY8ipmaeCU",
+      "clips": 2,
+      "source_seconds": 120.0066875,
+      "eligible_windows": 33,
+      "detected_scene_cuts": 28,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "4G52R5tTMnI",
+      "clips": 2,
+      "source_seconds": 120.009375,
+      "eligible_windows": 241,
+      "detected_scene_cuts": 4,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "jqHb3Ata3pQ",
+      "clips": 2,
+      "source_seconds": 114.5546875,
+      "eligible_windows": 10,
+      "detected_scene_cuts": 15,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "hQRdqXHADrI",
+      "clips": 2,
+      "source_seconds": 120.009375,
+      "eligible_windows": 8,
+      "detected_scene_cuts": 15,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "MJoJyecVdLk",
+      "clips": 1,
+      "source_seconds": 107.545375,
+      "eligible_windows": 21,
+      "detected_scene_cuts": 57,
+      "retained_clips": 1
+    },
+    {
+      "source_id": "jc1oOtLLBWg",
+      "clips": 1,
+      "source_seconds": 120.001375,
+      "eligible_windows": 2,
+      "detected_scene_cuts": 44,
+      "retained_clips": 1
+    },
+    {
+      "source_id": "19unETRvwQk",
+      "clips": 1,
+      "source_seconds": 120.0,
+      "eligible_windows": 1,
+      "detected_scene_cuts": 26,
+      "retained_clips": 1
+    },
+    {
+      "source_id": "RuVnAwkuTVw",
+      "clips": 2,
+      "source_seconds": 120.0146875,
+      "eligible_windows": 8,
+      "detected_scene_cuts": 22,
+      "retained_clips": 0
+    },
+    {
+      "source_id": "G205Pyy38xI",
+      "clips": 2,
+      "source_seconds": 120.0066875,
+      "eligible_windows": 333,
+      "detected_scene_cuts": 3,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "OJ1g8hGGbCk",
+      "clips": 2,
+      "source_seconds": 120.004,
+      "eligible_windows": 230,
+      "detected_scene_cuts": 0,
+      "retained_clips": 2
+    },
+    {
+      "source_id": "-TrWj1DDhrc",
+      "clips": 2,
+      "source_seconds": 120.017375,
+      "eligible_windows": 25,
+      "detected_scene_cuts": 2,
+      "retained_clips": 2
+    }
+  ],
+  "human_review_pending": [
+    "Kannada and regional labels",
+    "transcript",
+    "visible active speaker and mouth",
+    "lip synchronization",
+    "music and overlap",
+    "speaker permissions for generation",
+    "demographics and emotion"
+  ],
+  "successful_download_retries": [
+    "OJ1g8hGGbCk",
+    "-TrWj1DDhrc"
+  ],
+  "downloaded_recordings": 25,
+  "inspected_recordings": 32,
+  "excluded_clips": {
+    "v5_EMSfJVQ_Yls_002": "visible shot change between doorway and seated conversation",
+    "v5_w2eLW60mFek_002": "people walking away from camera; active speaking face not visible",
+    "v5_RuVnAwkuTVw_001": "scenery with narration; Kannada-language context not adequately established",
+    "v5_RuVnAwkuTVw_002": "multiple landscape shot changes; Kannada-language context not adequately established"
+  },
+  "audio_pair_checks_pass": 35,
+  "exact_audio_hash_duplicates": 0,
+  "manual_lip_sync_review": "pending"
+}
